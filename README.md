@@ -1,2 +1,2 @@
 # Kubo-and-the-last-Memory
-git com os ficheiros unity para o trabalho de grupo para  a cadeira djd1
+git with the unity files for the DJD1 group project
